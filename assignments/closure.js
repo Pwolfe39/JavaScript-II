@@ -18,7 +18,7 @@
 
 
 
-// // ==== Challenge 2: Create a counter function ====
+// // // ==== Challenge 2: Create a counter function ====
 // const counter = () => {
 //     for (let i = 0; i < counter.length; i++) {
 //         return counter;
